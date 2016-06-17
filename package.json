@@ -1,6 +1,6 @@
 {
-  "name": "browserify-component-test",
-  "description": "A Vue.js project",
+  "name": "vue-browserify-glob-require-demo",
+  "description": "A simple browserify setup appropriate for non-SPAs where you just want to register reusable components.",
   "author": "Chris Fritz <chrisvfritz@gmail.com>",
   "private": true,
   "scripts": {
